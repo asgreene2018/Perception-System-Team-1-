@@ -3,7 +3,7 @@
 Summary of Progress:
 * include what you did, why you did it, how you did it, and how it will be expanded on next semester
 
-Alex:
+Alex: Frequency Multiplier
 
 Nowshad:
 
